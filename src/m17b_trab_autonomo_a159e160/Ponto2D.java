@@ -26,6 +26,7 @@ public class Ponto2D {
     }
     
     
+    
     /**
     * @param a Ponto 2D
     * @return calculo da distância
