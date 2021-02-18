@@ -25,6 +25,7 @@ public class Ponto2D {
         this.y = y;        
     }
     
+    
     /**
     * @param a Ponto 2D
     * @return calculo da distância
